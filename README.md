@@ -60,9 +60,9 @@
 
 ## Contributors : 
 ```
-1. Nevil Sakhreliya - 2023201005
-2. Darshak Devani - 2023201007 
-3. Shah Viraj Utpalbhai - 2023201011
+1. Nevil Sakhreliya
+2. Darshak Devani 
+3. Shah Viraj Utpalbhai
 
 Guided By : 
 - Prof. Manish Shrivastava 
